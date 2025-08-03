@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "NetEase VIP 代理插件",
+  "version": "1.0.0",
+  "description": "使用远程代理解锁网易云 VIP 歌曲。",
+  "author": "mingko3",
+  "main": "netease-vip.js",
+  "platform": "musicfree",
+  "homepage": "https://github.com/mingko3/musicfree-plugin"
+}
