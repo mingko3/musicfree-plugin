@@ -1,0 +1,2 @@
+# musicfree-plugin
+WYYmusicfree
